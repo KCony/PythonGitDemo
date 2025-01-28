@@ -1,4 +1,4 @@
 import module as m
-print("Bonjour Le Monde")
+print("Guten Tag")
 print(f"{m.val}")
 
